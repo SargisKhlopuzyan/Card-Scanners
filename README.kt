@@ -1,0 +1,4 @@
+PayCards
+CardScan
+CardIO
+CreditCardNFCReader
