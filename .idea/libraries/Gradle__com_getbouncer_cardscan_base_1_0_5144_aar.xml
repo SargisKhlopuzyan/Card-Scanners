@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.getbouncer:cardscan-base:1.0.5144@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0c08cba3f6993d0b181d3d104fbe2b77/jetified-cardscan-base-1.0.5144/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0c08cba3f6993d0b181d3d104fbe2b77/jetified-cardscan-base-1.0.5144/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.getbouncer/cardscan-base/1.0.5144/1316e63191af83edaac345b0fdd83f11a9726ab5/cardscan-base-1.0.5144-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.getbouncer/cardscan-base/1.0.5144/36928a46e9c777e8c5f56ba90d3884c2128bfbff/cardscan-base-1.0.5144-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
